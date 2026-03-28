@@ -4,7 +4,6 @@ langchain-groq
 langchain-community
 langchain-google-genai
 chromadb
-sentence-transformers
 python-dotenv
 fastapi
 uvicorn
